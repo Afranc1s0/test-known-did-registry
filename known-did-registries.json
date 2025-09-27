@@ -1,0 +1,8 @@
+[
+	{
+	  "name": "Test Registry",
+	  "type": "test-type",
+	  "governanceUrl": "https://afranc1s0.github.io/sandbox-registry/",
+	  "url": "https://afranc1s0.github.io/sandbox-registry/registry.json"
+	}
+]
