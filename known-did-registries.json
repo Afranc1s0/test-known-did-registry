@@ -1,8 +1,15 @@
 [
 	{
+        "name": "DCC Sandbox Registry",
+        "type": "dcc-legacy",
+        "governanceUrl": "https://digitalcredentials.github.io/sandbox-registry",
+        "url": "https://digitalcredentials.github.io/sandbox-registry/registry.json"
+    },
+	{
 	  "name": "Test Registry",
 	  "type": "test-type",
 	  "governanceUrl": "https://afranc1s0.github.io/sandbox-registry/",
 	  "url": "https://afranc1s0.github.io/sandbox-registry/registry.json"
 	}
+
 ]
