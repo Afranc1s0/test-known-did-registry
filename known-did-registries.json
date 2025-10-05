@@ -8,10 +8,11 @@
 	{
 	  "name": "Test Registry",
 	  "type": "dcc-legacy",
-	  "governanceUrl": "https://afranc1s0.github.io/sandbox-registry/",
+	  "governanceUrl": "https://afranc1s0.github.io/sandbox-registry",
 	  "url": "https://afranc1s0.github.io/sandbox-registry/registry.json"
 	}
 
 ]
+
 
 
