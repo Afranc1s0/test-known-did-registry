@@ -7,10 +7,11 @@
     },
 	{
 	  "name": "Test Registry",
-	  "type": "oidf",
+	  "type": "dcc-legacy",
 	  "governanceUrl": "https://afranc1s0.github.io/sandbox-registry/",
 	  "url": "https://afranc1s0.github.io/sandbox-registry/registry.json"
 	}
 
 ]
+
 
