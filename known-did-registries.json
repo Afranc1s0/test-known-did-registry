@@ -5,14 +5,34 @@
         "governanceUrl": "https://digitalcredentials.github.io/sandbox-registry",
         "url": "https://digitalcredentials.github.io/sandbox-registry/registry.json"
     },
+    {
+        "name": "DCC Community Registry",
+        "type": "dcc-legacy",
+        "governanceUrl": "https://digitalcredentials.github.io/community-registry",
+        "url": "https://digitalcredentials.github.io/community-registry/registry.json"
+    },
+    {
+        "name": "DCC Member Registry",
+        "type": "dcc-legacy",
+        "governanceUrl": "https://digitalcredentials.github.io/dcc-registry",
+        "url": "https://digitalcredentials.github.io/dcc-registry/registry.json"
+    },
 	{
 	    "name": "Test Registry",
 	    "type": "dcc-legacy",
 	    "governanceUrl": "https://afranc1s0.github.io/sandbox-registry",
 	    "url": "https://afranc1s0.github.io/sandbox-registry/registry.json"
-	}
-   
+	},
+    {
+        "name": "MSP Registry",
+        "type": "dcc-legacy",
+        "governanceUrl": "https://pocket.asu.edu/",
+        "url": "https://sandbox-issuer.myskillspocket.com/registry.json"
+    }
+	
+
 ]
+
 
 
 
